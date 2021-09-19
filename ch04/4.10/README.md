@@ -1,0 +1,1 @@
+Constantes de classe e a palavra-chave SELF

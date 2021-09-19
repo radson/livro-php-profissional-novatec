@@ -1,0 +1,1 @@
+As classes e interfaces que constittuem o grupo dos iterators da biblioteca SPL são basicamente uma forma de percorrer listas de dados que possam ou não conter outras listas de dados. Além de permitirem encapsular algoritmos que tenham esssas funcionalidades.

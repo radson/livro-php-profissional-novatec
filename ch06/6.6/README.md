@@ -1,0 +1,1 @@
+Configurando os tipos de exceções que o PHP reporta

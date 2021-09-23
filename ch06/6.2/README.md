@@ -1,0 +1,1 @@
+Capturando exceções com try e catch

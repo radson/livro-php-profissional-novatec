@@ -1,0 +1,1 @@
+O padrão Abstract Factory fornece uma interface para criação de vários objetos relacionados ou dependentes sem especificar as suas classes concretas.

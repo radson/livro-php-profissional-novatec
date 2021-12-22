@@ -1,1 +1,0 @@
-Principais padrões de projeto

@@ -1,0 +1,1 @@
+Padrão Singleton é um padrão da categoria de criação de objetos que proproe garantir que uma classe tenha somente uma instância fornecendo um ponto global de acesso a ela.

@@ -1,0 +1,1 @@
+Padrão Factory Method aborda o problema da criação de instâncias de objetos quando o código foca em tipos abstratos. Isto significa dizer que é definida uma interface para criar um objeto, mas deixa-se para as classes especialistas ficarem encarregadas de manipular a instanciação.

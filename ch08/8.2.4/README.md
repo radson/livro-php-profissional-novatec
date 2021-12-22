@@ -1,0 +1,2 @@
+O conceito do padrão Factory (Fábrica) pode ser abordados de duas maneiras via o padrão Abstract Factory ou Factory Method.
+SimpleFactory para criar objetos por demanda em um único ponto, onde a dependencia de código não precisa ser levada em conta.

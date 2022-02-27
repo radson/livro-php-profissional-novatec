@@ -16,6 +16,7 @@ final class SimpleFactoryMoeda
                 break;
             case self::INGLATERRA_MOEDA_LIBRA_ESTERLINA:
                 self::setMoeda(new LibraEsterlina());
+                break;
             default:
                 throw new Exception ("Tipo especificado de moeda não existe. Moeda: ". $moeda);
         }

@@ -15,7 +15,7 @@ class Moeda
         $this->setSimboloMonetario($simboloMonetario);
     }
 
-    public function converteMoeda($valorBase, $fatorConversao, $operacao)
+    public function converterMoeda($valorBase, $fatorConversao, $operacao)
     {
         $valorfinal = 0;
         if ($operacao == Moeda::OPERACAO_DIVISAO) {

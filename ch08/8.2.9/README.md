@@ -1,0 +1,1 @@
+O padrão Adapter tem objetivo de converter um classe em outra interface esperada pelos clientes.

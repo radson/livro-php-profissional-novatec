@@ -1,0 +1,1 @@
+O padrão Registry oferece um meio para passagem de informações entre objetos. O Registry é uma classe que fornece acesso a dados (geralmente objetos), através de métodos estáticos ou via objetos Singleton.
